@@ -12,4 +12,4 @@ ShinyApp : https://plantmodelling.shinyapps.io/shinyRootBox/
 
 To go further, we have developped a Python interface to interact with our C++ model
 
-Colab : https://colab.research.google.com/github/water-fluxes/day-3-plant-scale-cplantbox/blob/main/tutorial/jupyter/0_summer_school_2022/1_cplantbox.ipynb 
+Colab : https://colab.research.google.com/github/water-fluxes/day-3-plant-scale-cplantbox/blob/main/1_cplantbox.ipynb
